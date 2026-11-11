@@ -1,22 +1,30 @@
 # Runde 1 – Der Tod
 
-## Trigger
-Nach dem Intro, ~11:30, wenn alle ihre Rollen-Karte haben.
+**Echte Zeit: ~11:25 · Dauer: ~15 Minuten**
 
-## Was passiert
-Du zeigst den **Tatort** (Stuhl mit Mantel, Hut, Brille + umgekippter Kaffeebecher). Onkel Erwin ist tot.
-
-## Neue Karten, die du verteilst
-
-### Karte R1-A: Der Kaffeebecher
-> Onkel Erwins Kaffeebecher. **Bitterer Rückstand** am Rand. Riecht leicht nach Bittermandel.
-
-### Karte R1-B: Das Testament
-> Testament von Onkel Erwin: „**Alles an meine Nichte Clara**."
-> (Noch nicht vorgelesen – er ist tot, bevor er es vorgelesen hat.)
+## Karten (Umschlag 1)
+| Karte | Inhalt |
+|---|---|
+| **R1-A** Thermobecher | Bitterer Rückstand, Bittermandelgeruch, ein Drittel getrunken |
+| **R1-B** Testament | „Alles an meine Nichte Clara" |
+| **R1-C** Befund | Tod zwischen 11:05 und 11:15 – sagt nur, wann er **getrunken** hat |
 
 ## Was du sagst
-> „Onkel Erwin ist tot. Vergifteter Kaffee. Hier sind die ersten Funde. Sucht, fragt einander aus, schreibt auf. Ich passe auf – und ja, ich darf euch unterwegs Hinweise geben."
+Zeig auf den Tatort, öffne Umschlag 1.
+> *„Fangen wir mit dem an, was auf dem Tisch lag."*
 
-## Was die Runde bewirkt
-Alle verdächtigen zuerst **Clara** (sie erbt alles) → klassischer **roter Hering**.
+Nach R1-A:
+> *„Bittermandel. Das war kein Herzinfarkt, meine Lieben, das war Gift. Und jetzt die Frage, die sich alle stellen: Wem nützt mein Tod?"*
+
+Lass **Clara selbst** das Testament vorlesen. Dann:
+> *„Alles an Clara. Herzlichen Glückwunsch zum Geburtstag."*
+>
+> *„Eine Viertelstunde. Fragen Sie einander aus: Wo waren Sie zwischen halb elf und elf? Was hatten Sie von mir zu erwarten? Ruhig unhöflich – ich bin tot, ich nehme es keinem übel."*
+
+## Wenn es stockt
+- *„Herr Vogel, wer macht in diesem Haus eigentlich den Kaffee?"*
+- *„Greta, Sie sind sehr früh gegangen. Warum?"*
+- *„Hilde, Sie haben mich gefunden. Erzählen Sie."*
+
+## Worauf du achtest
+Sag noch **nichts** über Kanne vs. Becher. Lass die Gruppe über „wer war in der Nähe?" streiten – umso mehr knallt Runde 4.
