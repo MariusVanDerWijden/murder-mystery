@@ -3,8 +3,6 @@
 Mord-Mystery für **9 Personen**: du (Erzähler + Opfer) und 8 Verdächtige.
 **Dauer: knapp 2 Stunden** (bis zur Enthüllung), 5 Runden, 19 Beweiskarten, 24 Impuls-Karten.
 
-Der Mörder ist **Herr Vogel, der Pfleger** – und **niemand ist eingeweiht, er selbst am wenigsten**. Auf seiner Rollenkarte steht kein Wort von einem Mord. Am Ende erfährt er es gemeinsam mit allen anderen.
-
 ---
 
 ## 🚀 Schnellstart
@@ -22,7 +20,7 @@ Der Mörder ist **Herr Vogel, der Pfleger** – und **niemand ist eingeweiht, er
 |---|---|---|
 | Opfer + Erzähler | **Onkel Erwin** | **du** |
 | Die Erbin | **Clara** | **das Geburtstagskind** · Hauptverdächtige **und** Hauptzeugin |
-| Der Pfleger | **Herr Vogel** | ein Gast mit Humor · **der Mörder, weiß es selbst nicht** |
+| Der Pfleger | **Herr Vogel** | ein Gast mit Humor |
 | Die Ex-Frau | Greta | Gast |
 | Der Geschäftspartner | Karl | Gast |
 | Der Anwalt | Dr. Stein | Gast |
